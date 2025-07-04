@@ -1,6 +1,6 @@
 # Numeric data operators with Python
 
-#Operator types
+# Arithmetic Operator types
 
 # The + operator is used to add two numbers.
 x = 20

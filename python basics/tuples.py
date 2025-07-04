@@ -18,6 +18,7 @@ print(my_tuple[-5]) # Accessing the first element of the tuple using negative in
 print(my_tuple[-2]) # Accessing the last element of the tuple using negative indexing
 
 #Tupels can be concatenated using the + operator.
+
 tuple1 = ("red")
 tuple2 = ("rose")
 
@@ -25,5 +26,6 @@ conc_tupel = tuple1 + tuple2
 print(conc_tupel)  # Output: redrose 
 
 # Tuples can be repeated using the * operator.
+
 repeat_tupel = tuple1 * 3
 print(repeat_tupel)  # Output: redredred
